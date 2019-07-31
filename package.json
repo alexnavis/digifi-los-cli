@@ -1,5 +1,5 @@
 {
-  "name": "digifi-los-cli",
+  "name": "@digifi-los/digifi-los-cli",
   "version": "1.0.0",
   "description": "A CLI designed to facilitate the installation of the DigiFi Loan Origination System",
   "main": "src/index.js",
@@ -12,6 +12,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digifi-io/digifi-los-cli.git"
+  },
+  "author": "Cody Hahn",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/digifi-io/digifi-los-cli/issues"
+  },
+  "homepage": "https://github.com/digifi-io/digifi-los-cli#readme",
   "keywords": [
     "cli",
     "digifi-los-cli"
@@ -20,8 +30,6 @@
     "bin/", 
     "src"
   ],
-  "author": "Cody Hahn",
-  "license": "Apache",
   "dependencies": {
     "arg": "^4.1.1",
     "chalk": "^2.4.2",
