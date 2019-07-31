@@ -5,7 +5,7 @@ Command Line Interface tool for simple installation of the DigiFi Loan Originati
 ### Installation
 To install this module, run:
 
-`npm i @digifi-los/digifi-los-cli`
+`npm i @digifi-los/digifi-los-cli -g`
 
 ### Setup
 To create a local copy of the DigiFi Loan Origination System, simply run the following after installing the `digifi-los-cli`:

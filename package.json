@@ -1,6 +1,6 @@
 {
   "name": "@digifi-los/digifi-los-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI designed to facilitate the installation of the DigiFi Loan Origination System",
   "main": "src/index.js",
   "bin": {
