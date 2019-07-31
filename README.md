@@ -19,4 +19,4 @@ If all the required database connections and other 3rd party connections are pro
 
 ### Notes
 
-Once the installation is complete, make sure that you have the other requirements in order to start running the application locally. More information on the prerequisites to running the DigiFi Loan Origination System as well as the overall installation and setup process can be found in DigiFi's documentation here: [DigiFi Open Source Documentation](https://docs.digifi.io)
+Once the installation is complete, make sure that you have the other requirements in order to start running the application locally. More information on the prerequisites to running the DigiFi Loan Origination System, as well as the overall installation and setup process, can be found in DigiFi's documentation here: [DigiFi Open Source Documentation](https://docs.digifi.io)
